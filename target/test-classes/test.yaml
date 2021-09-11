@@ -1,0 +1,19 @@
+name: 张三
+age: 10
+isSingle: false
+phone: ~
+data: 2021-08-21
+datatime: 2021-08-21T15:08:01+08:00
+address:
+  province: 湖南
+  city: 长沙
+
+provinces:
+  - province: 湖南
+    city: 长沙
+  - province: 广东
+    city: 深圳
+
+hobby:
+  - 打篮球
+  - 打羽毛球

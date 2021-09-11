@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="98" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="98" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+      <class name="com.lemon.day11.DataDrive">
+        <test-method status="PASS" signature="loginFailure(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.day11.DataDrive@1593948d]" name="loginFailure" duration-ms="0" started-at="2021-08-29T16:49:10 CST" data-provider="getDatas" finished-at="2021-08-29T16:49:10 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12222222222]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFailure -->
+        <test-method status="PASS" signature="loginFailure(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.day11.DataDrive@1593948d]" name="loginFailure" duration-ms="0" started-at="2021-08-29T16:49:10 CST" data-provider="getDatas" finished-at="2021-08-29T16:49:10 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFailure -->
+        <test-method status="PASS" signature="loginFailure(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.day11.DataDrive@1593948d]" name="loginFailure" duration-ms="0" started-at="2021-08-29T16:49:10 CST" data-provider="getDatas" finished-at="2021-08-29T16:49:10 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1333333]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFailure -->
+      </class> <!-- com.lemon.day11.DataDrive -->
+      <class name="com.lemon.day11.TestngTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="beforeSuite" is-config="true" duration-ms="35" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginFailure()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="loginFailure" duration-ms="1" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFailure -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginFailure01()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="loginFailure01" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFailure01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginSuccess(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="loginSuccess" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1333333]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1222222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="registerFail()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="registerFail" duration-ms="4" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFail -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="afterMethod" is-config="true" duration-ms="3" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="registerSuccess()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="registerSuccess" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSuccess -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginFailure02()[pri:1, instance:com.lemon.day11.TestngTest@482f8f11]" name="loginFailure02" duration-ms="0" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFailure02 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMClass()[pri:0, instance:com.lemon.day11.TestngTest@482f8f11]" name="afterMClass" is-config="true" duration-ms="1" started-at="2021-08-29T16:49:10 CST" finished-at="2021-08-29T16:49:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMClass -->
+      </class> <!-- com.lemon.day11.TestngTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
